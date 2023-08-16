@@ -10,3 +10,9 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/ahmedgadit/githubpractice.git
 git push -u origin main
+
+
+
+if you want to update your code
+git add .
+git commit -m "readme file updating"
